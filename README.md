@@ -1,3 +1,3 @@
 # scorecard-check-contributors-e2e
 
-This is an e2e test for the `Contributors` Scorecard check.
+This is an E2E test for the `Contributors` Scorecard check.
